@@ -1,0 +1,39 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data and model files
+data/
+*.tsv
+*.json
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.h5
+*.pt
+*.pth
+*.ckpt
+models/
+
+# Logs and experiment outputs
+logs/
+runs/
+outputs/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
